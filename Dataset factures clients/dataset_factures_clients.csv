@@ -1,0 +1,301 @@
+ID,Nom Client,Montant (€),Date Facture,Payé ?
+1,Dupont SARL,1.750,03/03/2023,oui
+2,Durand SA,1 000,2023-03-23,Oui
+3,durand sa,1 000,06-06-2023,nan
+4,nan,2500,12/06/2023,NON
+5,Martin & Fils,deux mille,05/03/2023,NON
+6,MARTIN & FILS,nan,12/02/2023,oui
+7,ENTREPRISE X,,02-03-2023,Oui
+8,Dupont SARL,1.750,13/01/2023,Oui
+9,Durand SA,1 000,09-01-2023,Oui
+10,ENTREPRISE X,NaN,14/03/2023,Non précisé
+11,MARTIN & FILS,1.750,2023-04-10,non
+12,sarl jaune,deux mille,09/05/2023,Non précisé
+13,MARTIN & FILS,NaN,2023-01-19,non
+14,SARL Jaune,1800€,2023-04-06,Oui
+15,MARTIN & FILS,1800€,22/02/2023,Oui
+16,ENTREPRISE X,1.750,2023-02-13,Non précisé
+17,nan,deux mille,01/03/2023,Non précisé
+18,dupont sarl,nan,13-06-2023,non
+19,ENTREPRISE X,1.750,07-02-2023,NON
+20,entreprise x,1 000,20/03/2023,non
+21,DURAND SA,"2,300",06-02-2023,Non précisé
+22,martin & fils,1.750,2023-01-05,nan
+23,nan,1.750,12-04-2023,Non précisé
+24,dupont sarl,NaN,2023-01-26,nan
+25,DUPONT SARL,"2,300",2023-04-25,oui
+26,martin & fils,1 000,2023-03-10,Non précisé
+27,DURAND SA,1.750,04-05-2023,oui
+28,Durand SA,NaN,2023-02-21,NON
+29,Dupont SARL,deux mille,25/04/2023,non
+30,entreprise x,1.750,16/06/2023,nan
+31,entreprise x,"2,300",07/04/2023,non
+32,DUPONT SARL,2500,2023-04-06,oui
+33,dupont sarl,"2,300",2023-01-08,nan
+34,SARL Jaune,1800€,13/01/2023,non
+35,Entreprise X,1 000,01/06/2023,Non précisé
+36,sarl jaune,,30-03-2023,Oui
+37,MARTIN & FILS,1.750,04-06-2023,oui
+38,dupont sarl,"2,300",2023-06-06,non
+39,Dupont SARL,,2023-04-15,oui
+40,nan,NaN,04/02/2023,oui
+41,sarl jaune,2500,2023-05-07,nan
+42,nan,1 000,18-02-2023,nan
+43,entreprise x,"2,300",2023-04-16,Oui
+44,ENTREPRISE X,,01-03-2023,Non précisé
+45,Dupont SARL,2500,20-04-2023,oui
+46,DURAND SA,1800€,24/04/2023,non
+47,DUPONT SARL,1 000,21-02-2023,NON
+48,DURAND SA,1 000,2023-06-07,oui
+49,nan,1800€,15-06-2023,oui
+50,Entreprise X,1.750,2023-06-10,Oui
+51,Dupont SARL,1800€,27/05/2023,Non précisé
+52,SARL JAUNE,1 000,20-05-2023,NON
+53,SARL JAUNE,1 000,2023-05-03,nan
+54,nan,,20/03/2023,nan
+55,Durand SA,2500,2023-04-21,non
+56,dupont sarl,1800€,12-05-2023,NON
+57,entreprise x,2500,28-01-2023,nan
+58,entreprise x,1800€,13/01/2023,non
+59,MARTIN & FILS,NaN,25-05-2023,Non précisé
+60,MARTIN & FILS,1 000,10/04/2023,non
+61,nan,,14/06/2023,nan
+62,nan,2500,2023-02-22,Oui
+63,MARTIN & FILS,1800€,01-01-2023,Oui
+64,ENTREPRISE X,nan,2023-01-10,Oui
+65,martin & fils,NaN,08/01/2023,nan
+66,durand sa,"2,300",26/05/2023,Oui
+67,martin & fils,1.750,16-04-2023,NON
+68,DURAND SA,2500,2023-01-28,Non précisé
+69,martin & fils,,2023-06-08,non
+70,ENTREPRISE X,"2,300",28-06-2023,non
+71,Durand SA,nan,2023-01-24,nan
+72,DURAND SA,1.750,24/02/2023,Oui
+73,martin & fils,nan,2023-02-09,Oui
+74,ENTREPRISE X,"2,300",2023-04-03,oui
+75,durand sa,1.750,2023-03-18,Non précisé
+76,martin & fils,nan,2023-05-06,NON
+77,ENTREPRISE X,,16-04-2023,non
+78,Entreprise X,1800€,21/01/2023,oui
+79,MARTIN & FILS,1 000,04/05/2023,oui
+80,nan,1800€,18/02/2023,nan
+81,Entreprise X,"2,300",2023-06-07,non
+82,entreprise x,2500,13-06-2023,nan
+83,MARTIN & FILS,1 000,2023-02-22,NON
+84,entreprise x,NaN,01/01/2023,oui
+85,Martin & Fils,,2023-02-23,oui
+86,DUPONT SARL,NaN,2023-06-09,Non précisé
+87,nan,1.750,05/03/2023,NON
+88,Entreprise X,1 000,13-04-2023,oui
+89,DUPONT SARL,NaN,14-05-2023,NON
+90,DUPONT SARL,NaN,2023-04-16,non
+91,durand sa,nan,03-03-2023,Oui
+92,MARTIN & FILS,1800€,2023-03-02,oui
+93,nan,nan,19-03-2023,Non précisé
+94,Martin & Fils,1 000,2023-06-03,non
+95,entreprise x,1 000,07/04/2023,NON
+96,ENTREPRISE X,"2,300",02/05/2023,nan
+97,DURAND SA,nan,11/06/2023,non
+98,ENTREPRISE X,deux mille,07-06-2023,oui
+99,DURAND SA,1800€,10-05-2023,NON
+100,Entreprise X,1 000,12/06/2023,Oui
+101,SARL JAUNE,"2,300",2023-04-04,non
+102,nan,nan,2023-04-07,oui
+103,ENTREPRISE X,1800€,17-03-2023,Non précisé
+104,martin & fils,nan,01/06/2023,nan
+105,nan,NaN,02-03-2023,NON
+106,martin & fils,"2,300",27/06/2023,non
+107,dupont sarl,1800€,16-03-2023,non
+108,MARTIN & FILS,1.750,13-03-2023,Oui
+109,DURAND SA,1.750,31-03-2023,Oui
+110,nan,1800€,2023-01-23,Non précisé
+111,DURAND SA,nan,17-06-2023,nan
+112,nan,"2,300",01/02/2023,Non précisé
+113,Dupont SARL,1.750,25-04-2023,oui
+114,Durand SA,"2,300",11/05/2023,oui
+115,MARTIN & FILS,1.750,09-04-2023,Non précisé
+116,durand sa,NaN,23/04/2023,nan
+117,dupont sarl,nan,2023-02-17,Non précisé
+118,durand sa,NaN,2023-04-26,nan
+119,Entreprise X,1.750,25/01/2023,nan
+120,Entreprise X,NaN,04/04/2023,NON
+121,durand sa,1.750,09/01/2023,nan
+122,durand sa,1800€,08-05-2023,Oui
+123,Martin & Fils,NaN,08/02/2023,nan
+124,MARTIN & FILS,2500,04-06-2023,nan
+125,durand sa,nan,24-05-2023,nan
+126,martin & fils,1 000,2023-05-13,oui
+127,Durand SA,deux mille,2023-01-26,Oui
+128,Durand SA,NaN,19/03/2023,Oui
+129,DUPONT SARL,,29-01-2023,Non précisé
+130,SARL JAUNE,nan,2023-04-13,NON
+131,Entreprise X,2500,07/02/2023,nan
+132,DURAND SA,2500,25/03/2023,non
+133,Dupont SARL,1.750,2023-04-30,NON
+134,SARL Jaune,1.750,2023-06-25,NON
+135,nan,deux mille,2023-02-24,Oui
+136,DURAND SA,1800€,14-02-2023,NON
+137,SARL JAUNE,,2023-03-13,nan
+138,Dupont SARL,1 000,23/06/2023,nan
+139,Martin & Fils,deux mille,2023-02-16,oui
+140,nan,"2,300",14-04-2023,nan
+141,MARTIN & FILS,1 000,2023-04-24,nan
+142,ENTREPRISE X,NaN,19/05/2023,Oui
+143,MARTIN & FILS,nan,25/01/2023,nan
+144,nan,"2,300",17/01/2023,oui
+145,DURAND SA,"2,300",22/03/2023,non
+146,nan,deux mille,01/05/2023,Oui
+147,DURAND SA,1800€,24-05-2023,non
+148,Dupont SARL,deux mille,18-04-2023,Oui
+149,Dupont SARL,NaN,20/01/2023,Non précisé
+150,Entreprise X,1800€,29/01/2023,NON
+151,Martin & Fils,NaN,2023-05-02,Non précisé
+152,Entreprise X,1800€,2023-03-05,nan
+153,SARL JAUNE,2500,2023-06-14,non
+154,durand sa,"2,300",18-03-2023,nan
+155,MARTIN & FILS,,03-05-2023,NON
+156,Dupont SARL,nan,28/02/2023,Oui
+157,entreprise x,NaN,19-02-2023,NON
+158,SARL JAUNE,1 000,13-06-2023,oui
+159,martin & fils,1800€,17-03-2023,NON
+160,Martin & Fils,nan,2023-05-29,oui
+161,DURAND SA,1 000,25-03-2023,NON
+162,Entreprise X,nan,08-01-2023,oui
+163,SARL JAUNE,,2023-04-07,non
+164,SARL Jaune,1 000,26-01-2023,nan
+165,MARTIN & FILS,deux mille,12-04-2023,nan
+166,Dupont SARL,1.750,03/01/2023,Non précisé
+167,DURAND SA,deux mille,11/05/2023,nan
+168,ENTREPRISE X,1.750,2023-05-02,Oui
+169,SARL Jaune,deux mille,10-04-2023,NON
+170,Martin & Fils,1.750,2023-02-28,Non précisé
+171,SARL JAUNE,1.750,12-06-2023,Oui
+172,nan,"2,300",27-04-2023,Oui
+173,dupont sarl,1800€,2023-02-25,oui
+174,DURAND SA,1800€,05/05/2023,nan
+175,nan,"2,300",09/01/2023,non
+176,MARTIN & FILS,nan,04-06-2023,non
+177,nan,2500,2023-06-02,Non précisé
+178,DUPONT SARL,nan,25-06-2023,non
+179,entreprise x,1 000,2023-04-07,NON
+180,sarl jaune,1 000,24-02-2023,non
+181,SARL Jaune,1.750,2023-06-14,Non précisé
+182,durand sa,deux mille,08-06-2023,non
+183,sarl jaune,deux mille,27-03-2023,NON
+184,MARTIN & FILS,1800€,25/05/2023,oui
+185,martin & fils,NaN,2023-06-08,Non précisé
+186,Entreprise X,nan,27/02/2023,oui
+187,martin & fils,,30-06-2023,oui
+188,DUPONT SARL,deux mille,22-03-2023,oui
+189,nan,,2023-04-21,Oui
+190,SARL Jaune,1.750,2023-03-05,nan
+191,durand sa,,19/05/2023,Oui
+192,dupont sarl,"2,300",31-03-2023,nan
+193,DUPONT SARL,,02-02-2023,oui
+194,SARL Jaune,2500,13/04/2023,Non précisé
+195,Durand SA,1.750,2023-05-25,nan
+196,sarl jaune,nan,22/01/2023,NON
+197,DUPONT SARL,"2,300",2023-05-15,NON
+198,sarl jaune,deux mille,06/04/2023,non
+199,DURAND SA,1 000,24-05-2023,nan
+200,martin & fils,nan,28-02-2023,Non précisé
+201,DURAND SA,1 000,26/05/2023,Oui
+202,entreprise x,1.750,21/02/2023,oui
+203,Durand SA,"2,300",28-04-2023,non
+204,durand sa,1800€,2023-06-16,NON
+205,nan,deux mille,18-02-2023,Oui
+206,dupont sarl,2500,2023-06-04,Oui
+207,Martin & Fils,1800€,2023-06-14,oui
+208,sarl jaune,1.750,28-01-2023,nan
+209,dupont sarl,nan,28-04-2023,NON
+210,sarl jaune,2500,17/01/2023,Non précisé
+211,MARTIN & FILS,,12-01-2023,Oui
+212,DUPONT SARL,2500,2023-06-03,oui
+213,entreprise x,1.750,2023-01-24,Non précisé
+214,martin & fils,NaN,29-04-2023,nan
+215,Martin & Fils,,2023-01-19,NON
+216,Dupont SARL,1 000,24-01-2023,nan
+217,sarl jaune,deux mille,2023-05-04,Oui
+218,dupont sarl,1 000,2023-01-29,Non précisé
+219,entreprise x,2500,2023-04-14,Non précisé
+220,ENTREPRISE X,1 000,19/05/2023,Non précisé
+221,Martin & Fils,1.750,24/04/2023,Oui
+222,ENTREPRISE X,nan,15/05/2023,Oui
+223,DURAND SA,deux mille,2023-02-20,nan
+224,martin & fils,1 000,2023-02-15,non
+225,nan,1 000,19/06/2023,nan
+226,Entreprise X,2500,20-01-2023,NON
+227,nan,nan,17-01-2023,oui
+228,Entreprise X,1800€,28-03-2023,Non précisé
+229,Dupont SARL,1 000,05/06/2023,non
+230,MARTIN & FILS,1.750,2023-02-04,oui
+231,dupont sarl,NaN,07-03-2023,non
+232,SARL Jaune,deux mille,2023-04-04,nan
+233,Dupont SARL,1 000,2023-03-08,Oui
+234,DUPONT SARL,1.750,29-01-2023,Non précisé
+235,DUPONT SARL,1.750,2023-01-11,nan
+236,nan,deux mille,15-02-2023,oui
+237,dupont sarl,1800€,15/05/2023,oui
+238,SARL Jaune,1.750,12-05-2023,oui
+239,durand sa,NaN,21/05/2023,oui
+240,MARTIN & FILS,1.750,19-02-2023,oui
+241,entreprise x,1.750,07-02-2023,non
+242,sarl jaune,1.750,17-05-2023,nan
+243,SARL Jaune,1800€,2023-02-13,Non précisé
+244,Entreprise X,1 000,12-02-2023,Oui
+245,Martin & Fils,1.750,05-01-2023,Oui
+246,durand sa,nan,2023-04-13,nan
+247,sarl jaune,1 000,20/05/2023,nan
+248,sarl jaune,1800€,24-02-2023,Oui
+249,durand sa,"2,300",09/03/2023,Oui
+250,DURAND SA,1 000,18-05-2023,non
+251,ENTREPRISE X,1 000,2023-04-28,NON
+252,sarl jaune,,2023-03-26,Non précisé
+253,durand sa,2500,2023-06-08,oui
+254,SARL Jaune,,10/06/2023,NON
+255,durand sa,NaN,2023-05-06,nan
+256,Durand SA,2500,05-05-2023,Oui
+257,Dupont SARL,deux mille,2023-02-21,NON
+258,SARL JAUNE,deux mille,2023-02-21,Non précisé
+259,DURAND SA,1800€,09/03/2023,nan
+260,martin & fils,2500,08-01-2023,oui
+261,SARL JAUNE,1 000,15-01-2023,oui
+262,Dupont SARL,deux mille,18/02/2023,Non précisé
+263,Dupont SARL,1.750,28-02-2023,Non précisé
+264,Dupont SARL,nan,09/03/2023,Oui
+265,SARL JAUNE,1 000,01/01/2023,oui
+266,dupont sarl,NaN,25-01-2023,nan
+267,ENTREPRISE X,1.750,12/05/2023,NON
+268,durand sa,1.750,2023-06-09,nan
+269,Martin & Fils,2500,02-06-2023,non
+270,nan,1800€,23-03-2023,non
+271,ENTREPRISE X,NaN,15/05/2023,Non précisé
+272,Entreprise X,deux mille,2023-02-20,Oui
+273,SARL Jaune,2500,2023-03-03,non
+274,MARTIN & FILS,deux mille,23-01-2023,oui
+275,dupont sarl,2500,19/03/2023,nan
+276,martin & fils,2500,01/02/2023,nan
+277,ENTREPRISE X,2500,19-02-2023,Non précisé
+278,nan,1800€,19-03-2023,NON
+279,Martin & Fils,2500,12-02-2023,Non précisé
+280,DUPONT SARL,"2,300",07-03-2023,NON
+281,Dupont SARL,nan,2023-03-11,Non précisé
+282,sarl jaune,deux mille,29/05/2023,Non précisé
+283,Entreprise X,1 000,22-05-2023,Non précisé
+284,MARTIN & FILS,,2023-03-25,NON
+285,DURAND SA,NaN,02/05/2023,NON
+286,martin & fils,1800€,21/04/2023,Non précisé
+287,SARL Jaune,1 000,15/03/2023,non
+288,MARTIN & FILS,1.750,2023-03-02,Oui
+289,Dupont SARL,"2,300",10-04-2023,Oui
+290,sarl jaune,,26/06/2023,Oui
+291,dupont sarl,1 000,17/06/2023,NON
+292,sarl jaune,1 000,23-05-2023,NON
+293,SARL JAUNE,"2,300",20-06-2023,non
+294,sarl jaune,,06-01-2023,Oui
+295,SARL JAUNE,1.750,29/04/2023,Oui
+296,Entreprise X,2500,2023-05-07,Non précisé
+297,dupont sarl,deux mille,01-04-2023,NON
+298,SARL Jaune,1.750,28/03/2023,Oui
+299,entreprise x,2500,05-01-2023,nan
+300,Dupont SARL,1800€,01/05/2023,non
